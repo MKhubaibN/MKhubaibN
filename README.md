@@ -39,7 +39,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKhubaibN&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
@@ -52,13 +52,13 @@
 
 ---
 
-### 🏆 Featured Projects
+<!--### 🏆 Featured Projects
 
 | Project | Description | Tech |
 |---|---|---|
 | 🔗 [Project One](#) | Short one-line description of what it does | Python, PyTorch |
 | 🔗 [Project Two](#) | Short one-line description of what it does | Bash, Nmap |
-| 🔗 [Project Three](#) | Short one-line description of what it does | TensorFlow, Flask |
+| 🔗 [Project Three](#) | Short one-line description of what it does | TensorFlow, Flask |-->
 
 ---
 
@@ -66,8 +66,8 @@
 
 <p align="left">
   <!-- Uncomment and fill in when you're ready to add links -->
-  <!-- <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/m-khubaib-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />linkedin.com/in/m-khubaib-n/</a>   
+  <a href="mailto:khubaibnaveed25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />khubaibnaveed25</a> 
   <!-- <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>
 

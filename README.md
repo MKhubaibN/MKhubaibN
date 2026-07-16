@@ -74,7 +74,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=00ff9f" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MKhubaibN&style=for-the-badge&color=00ff9f" alt="profile views" />
 </p>
 
 <p align="center"><i>⚡ "The quieter you become, the more you are able to hear."</i></p>

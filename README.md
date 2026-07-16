@@ -38,16 +38,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MKhubaibN&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MKhubaibN&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MkhubaibN&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MKhubaibN&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -66,7 +66,7 @@
 
 <p align="left">
   <!-- Uncomment and fill in when you're ready to add links -->
-  <a href="https://www.linkedin.com/in/m-khubaib-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />linkedin.com/in/m-khubaib-n/</a>   
+  <a href="https://www.linkedin.com/in/m-khubaib-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />linkedin.com/in/m-khubaib-n/</a><br>   
   <a href="mailto:khubaibnaveed25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />khubaibnaveed25</a> 
   <!-- <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>

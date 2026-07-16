@@ -66,8 +66,8 @@
 
 <p align="left">
   <!-- Uncomment and fill in when you're ready to add links -->
-  <a href="https://www.linkedin.com/in/m-khubaib-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />linkedin.com/in/m-khubaib-n/</a><br>   
-  <a href="mailto:khubaibnaveed25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />khubaibnaveed25</a> 
+  <a href="https://www.linkedin.com/in/m-khubaib-n/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><br><br>   
+  <a href="mailto:khubaibnaveed25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <!-- <a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>
 

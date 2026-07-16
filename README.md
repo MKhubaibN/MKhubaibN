@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <span style="color:#00ff9f">YOUR_NAME</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#00ff9f">Muhammad Khubaib Naveed</span> 👋</h1>
 
-<h3 align="center">🛡️ Cybersecurity Enthusiast &nbsp;|&nbsp; 🤖 AI/ML Explorer &nbsp;|&nbsp; 💻 Builder</h3>
+<h3 align="center">🛡️ Cybersecurity Enthusiast &nbsp;|&nbsp; 🤖 AI/ML &nbsp;|&nbsp; 💻 Builder</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF9F&center=true&vCenter=true&width=500&lines=Breaking+things+to+understand+them...;Training+models%2C+hunting+vulnerabilities;Always+learning%2C+always+building." alt="Typing SVG" />
@@ -10,11 +10,11 @@
 
 ### 🧠 About Me
 
-- 🔭 Currently working on **[project name]**
-- 🌱 Currently learning **[e.g. Adversarial ML, Red Teaming, Threat Hunting]**
+- 🔭 Currently working on **IDS System & Malware Analysis Using CNN**
+- 🌱 Currently learning **Malware along with AI**
 - 🔐 Interested in **offensive security, malware analysis, and AI safety**
 - 🤝 Open to collaborating on **AI/ML security research**
-- ⚡ Fun fact: **[add something fun about yourself]**
+<!--- ⚡ Fun fact: **[add something fun about yourself]**-->
 
 ---
 
